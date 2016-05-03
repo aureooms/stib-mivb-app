@@ -1,1 +1,0 @@
-# stib-mivb-app
